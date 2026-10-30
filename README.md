@@ -301,11 +301,11 @@ Example response from the API reference, abridged — real values depend on the 
       },
       "encid": "ftgDNwNVnb3xwx8XRP9n9Q",
       "author": {
-        "encid": "fFv3wzMIZDgIruoiVOFEGQ",
-        "display_name": "Yim C.",
-        "friend_count": 1,
-        "review_count": 6,
-        "display_location": "San Francisco, CA",
+        "encid": "example",
+        "display_name": "example",
+        "friend_count": 0,
+        "review_count": 0,
+        "display_location": "example",
         "business_photo_count": 0
       },
       "rating": 5,
@@ -334,12 +334,12 @@ Example response from the API reference, abridged — real values depend on the 
       },
       "encid": "iZUQegcOX-GIKLacrlBJ2g",
       "author": {
-        "encid": "P0RUkwZySXJMHmH-njJVkw",
-        "display_name": "Karla C.",
-        "friend_count": 1,
-        "review_count": 9,
-        "display_location": "Alum Rock, San Jose, CA",
-        "business_photo_count": 4
+        "encid": "example",
+        "display_name": "example",
+        "friend_count": 0,
+        "review_count": 0,
+        "display_location": "example",
+        "business_photo_count": 0
       },
       "rating": 4,
       "business": {
