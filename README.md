@@ -72,7 +72,7 @@ response = requests.get(
     params={
         "query": "https://www.yelp.com/biz/novela-san-francisco-2",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -202,7 +202,7 @@ response = requests.get(
     params={
         "query": "cX5dOMkwZ5rqWbeIJpw_Ig",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -427,7 +427,7 @@ response = requests.get(
     params={
         "query": "https://www.yelp.com/search?find_desc=Cocktail+Bars&find_loc=San+Francisco%2C+CA",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
